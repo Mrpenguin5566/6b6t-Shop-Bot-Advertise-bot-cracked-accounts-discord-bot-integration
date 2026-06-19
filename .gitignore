@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Bot data (optional - remove these lines if you want to track them)
+Coin Bot/coin_data.json
+Shop_Bot configs and shit/bot_state.json
+
+# OS junk
+.DS_Store
+Thumbs.db

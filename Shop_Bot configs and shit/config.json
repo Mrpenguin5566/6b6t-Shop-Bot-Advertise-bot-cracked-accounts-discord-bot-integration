@@ -1,0 +1,17 @@
+{
+  "host": "6b6t.org",
+  "port": 25565,
+  "username": "enter name of bot",
+  "command_1": "put command ",
+  "command_2": "put command",
+  "command_3": "put command",
+  "delay_after_spawn": 2000,
+  "delay_after_command_1": 5000,
+  "delay_after_chest_open": 500,
+  "chest_open_view_time": 500,
+  "delay_after_command_2": 20000,
+  "delay_before_drop": 2000,
+  "delay_before_command_3": 3000,
+  "chest_search_distance": 36,
+  "max_chests_to_search": 200
+}

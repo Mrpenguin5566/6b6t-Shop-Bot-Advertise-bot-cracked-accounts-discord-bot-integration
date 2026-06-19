@@ -1,0 +1,5 @@
+{
+  "discord_token": "put your discord bot token in here ",
+  "discord_webhook": "put webhook url in here",
+  "join_leaving": false
+}
