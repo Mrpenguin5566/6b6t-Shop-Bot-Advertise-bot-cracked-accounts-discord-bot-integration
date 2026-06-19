@@ -28,10 +28,10 @@ def get_bot_choices():
 # FILES & CONSTANTS
 # =======================
 
-DISCORD_CONFIG = "Shop_Bot configs and shit/discord config.json"
-STATE_FILE = "Shop_Bot configs and shit/bot_state.json"
-MC_CONFIG = "Shop_Bot configs and shit/config.json"
-TP_FILE = "advertise-bots-shit/allowed-tps.json"
+DISCORD_CONFIG = "Shop_Bot_configs/discord config.json"
+STATE_FILE = "Shop_Bot_configs/bot_state.json"
+MC_CONFIG = "Shop_Bot_configs/config.json"
+TP_FILE = "advertise-bots/allowed-tps.json"
 
 ALLOWED_ROLE_IDS = [
     #put roles here

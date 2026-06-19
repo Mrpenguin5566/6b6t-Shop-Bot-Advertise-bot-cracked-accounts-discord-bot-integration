@@ -11,9 +11,9 @@ const { GoalNear } = goals
    📂 PATHS
    ======================= */
 
-const CONFIG_PATH = path.join(__dirname, 'Shop_Bot configs and shit', 'config.json')
-const STATE_PATH = path.join(__dirname, 'Shop_Bot configs and shit', 'bot_state.json')
-const DISCORD_CONFIG_PATH = path.join(__dirname, 'Shop_Bot configs and shit', 'discord config.json')
+const CONFIG_PATH = path.join(__dirname, 'Shop_Bot_configs', 'config.json')
+const STATE_PATH = path.join(__dirname, 'Shop_Bot_configs', 'bot_state.json')
+const DISCORD_CONFIG_PATH = path.join(__dirname, 'Shop_Bot_configs', 'discord config.json')
 
 /* =======================
    📄 LOADERS

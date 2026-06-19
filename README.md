@@ -8,7 +8,7 @@ No real tokens or passwords are stored in this repo — every sensitive field ha
 
 ## Files You Need to Edit
 
-### 1. `Shop_Bot configs and shit/discord config.json`
+### 1. `Shop_Bot_configs/discord config.json`
 
 This is the main Discord config used by `main.py` (the Discord bot).
 
@@ -28,7 +28,7 @@ This is the main Discord config used by `main.py` (the Discord bot).
 
 ---
 
-### 2. `Shop_Bot configs and shit/config.json`
+### 2. `Shop_Bot_configs/config.json`
 
 Settings for the shop bot's Minecraft account and in-game commands.
 

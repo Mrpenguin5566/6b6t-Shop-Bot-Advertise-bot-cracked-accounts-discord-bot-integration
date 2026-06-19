@@ -30,7 +30,7 @@ function loadAllowedPlayers() {
 
     try {
 
-        const filePath = path.join(__dirname, "advertise-bots-shit", "allowed-tps.json");
+        const filePath = path.join(__dirname, "advertise-bots", "allowed-tps.json");
 
         const data = fs.readFileSync(filePath, "utf8");
 
