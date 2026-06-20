@@ -138,7 +138,7 @@ Admins on your server always have access regardless of this list.
 
 ---
 
-### 6. `advertise-bots-shit/allowed-tps.json`
+### 6. `advertise-bots/allowed-tps.json`
 
 This controls which Minecraft players are allowed to `/tpy` to the advertise bots. You can manage this list from Discord using `/allowtp` and `/removetp`, or edit the file directly.
 
